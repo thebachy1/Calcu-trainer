@@ -1,0 +1,3 @@
+[submodule "Calcu-trainer-docs"]
+	path = Calcu-trainer-docs
+	url = git@github.com:thebachy1/Calcu-trainer-docs.git
