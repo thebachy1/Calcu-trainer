@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include calcu_trainer *.css
+recursive-include calcu_trainer *.csv
+recursive-include calcu_trainer *.html
+recursive-include calcu_trainer *.ico
+recursive-include calcu_trainer *.js
+recursive-include calcu_trainer *.json
+recursive-include calcu_trainer *.md
+recursive-include calcu_trainer *.png
+recursive-include calcu_trainer *.py
+recursive-include calcu_trainer *.svg
+recursive-include calcu_trainer *.txt
+recursive-exclude calcu_trainer *.pyc
